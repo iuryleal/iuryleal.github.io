@@ -26,7 +26,8 @@
 - Bacharelado em Ciências Contábeis (incompleto) | Universidade Estadual da Paraíba (2014.1 - 2017.2)
 
 ## **Cursos**
-- **Formação Gerando Valor com Dados** | Preditiva Analytics (2024)
+- **Formação Gerando Valor com Dados** 
+  -  Preditiva Analytics (2024)
 - **Advanced DAX For Microsoft Power BI** | Maven Analytics (2024)
 - **Pandas Bootcamp: Advanced Python Data Analysis** | Andy Bek (2024)
 - **Pentaho** | Arruda Consulting (2024)
