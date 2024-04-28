@@ -7,19 +7,19 @@
 ### **Projeto 2**
 
 ## **Skills**
-**Linguagens:**
-💻 DAX
-💻 SQL
-💻 Git
-💻 Python (Pandas, Numpy, Matplotlib, Seaborn)
+- **Linguagens:**
+  - 💻 DAX
+  - 💻 SQL
+  - 💻 Git
+  - 💻 Python (Pandas, Numpy, Matplotlib, Seaborn)
 
-**Ferramentas:**
-🛠️ Excel
-🛠️ Pentaho 
-🛠️ SQL Server | MySQL
-🛠️ Power BI
-🛠️ GitHub
-🛠️ Figma, Canva
+- **Ferramentas:**
+  - 🛠️ Excel
+  - 🛠️ Pentaho 
+  - 🛠️ SQL Server | MySQL
+  - 🛠️ Power BI
+  - 🛠️ GitHub
+  - 🛠️ Figma, Canva
 
 ## **Formação Acadêmica**
 - **Bacharelado em Odontologia**
