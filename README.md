@@ -2,9 +2,13 @@
 
 ## **Projetos**
 
-### **Projeto 1**
+- **Projeto 1**
+  - Notebook:
+  - Link artigo:
 
-### **Projeto 2**
+- **Projeto 2**
+  - Notebook:
+  - Link artigo:
 
 ## **Skills**
 - **Linguagens:**
