@@ -16,7 +16,7 @@
 - **Ferramentas:**
   - 🛠️ Excel
   - 🛠️ Pentaho 
-  - 🛠️ SQL Server | MySQL
+  - 🛠️ SQL Server, MySQL
   - 🛠️ Power BI
   - 🛠️ GitHub
   - 🛠️ Figma, Canva
