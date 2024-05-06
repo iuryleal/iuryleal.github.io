@@ -2,13 +2,9 @@
 
 ## **Projetos**
 
-- **Projeto 1**
-  - Notebook:
-  - Link artigo:
-
-- **Projeto 2**
-  - Notebook:
-  - Link artigo:
+- **Projeto - Redução de Turnover de Funcionários**
+  - Notebook: [Link](https://github.com/iuryleal/Reducao-de-Turnover)
+  - Link artigo: [Link](https://medium.com/@iuryleal/redu%C3%A7%C3%A3o-de-turnover-0dd0f4f31f95)
 
 ## **Skills**
 - **Linguagens:**
