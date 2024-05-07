@@ -1,5 +1,3 @@
-# **Analista de dados**
-
 ## **Projetos**
 
 - **Projeto - Redução de Turnover de Funcionários**
