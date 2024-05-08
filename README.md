@@ -8,7 +8,12 @@
   - Notebook: [Link](https://github.com/iuryleal/RFV-Information-Value)
   - Link Power BI: [Link](https://app.powerbi.com/view?r=eyJrIjoiZTlhNWFiNGYtMzlkNi00NjJjLThlYTEtMzk2OTAzMzc3OTUyIiwidCI6ImQyOGI5MzEwLWE5NzQtNGRjOC1iMDg4LTZmMTdhNTJjNjc2MiJ9)
   - Link Artigo: [Link](https://medium.com/@iuryleal/an%C3%A1lise-rfv-associada-ao-information-value-cliente-campe%C3%A3o-e5104c18c144)
-  
+
+- **Projeto - Data Cleaning with SQL**
+  - Notebook: [Link](https://github.com/iuryleal/Data-Cleaning-with-SQL)
+
+- **Projeto - Data Exploratory Analysis with Python**
+  - Notebook: [Link](https://github.com/iuryleal/EDA-Bank-Marketing-with-Python)
 
 ## **Skills**
 - **Linguagens:**
