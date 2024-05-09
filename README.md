@@ -15,9 +15,6 @@
 - **Projeto - Data Cleaning with SQL**
   - Notebook: [Link](https://github.com/iuryleal/Data-Cleaning-with-SQL)
 
-- **Projeto - Data Exploratory Analysis with Python**
-  - Notebook: [Link](https://github.com/iuryleal/EDA-Bank-Marketing-with-Python)
-
 ## **Skills**
 - **Linguagens:**
   - 💻 DAX
