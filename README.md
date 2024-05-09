@@ -1,22 +1,27 @@
 ## **Projetos**
 
 - **Projeto - Redução de Turnover de Funcionários**
+  - Skills: Negócios, Python & Estatística
   - Notebook: [Link](https://github.com/iuryleal/Reducao-de-Turnover)
   - Link Artigo: [Link](https://medium.com/@iuryleal/redu%C3%A7%C3%A3o-de-turnover-0dd0f4f31f95)
 
 - **Projeto - Análise RFV associada ao Information Value (Cliente Campeão)**
+  - Skills: Negócios, Python, Power Bi, SQL & Estatística
   - Notebook: [Link](https://github.com/iuryleal/RFV-Information-Value)
   - Link Power BI: [Link](https://app.powerbi.com/view?r=eyJrIjoiZTlhNWFiNGYtMzlkNi00NjJjLThlYTEtMzk2OTAzMzc3OTUyIiwidCI6ImQyOGI5MzEwLWE5NzQtNGRjOC1iMDg4LTZmMTdhNTJjNjc2MiJ9)
   - Link Artigo: [Link](https://medium.com/@iuryleal/an%C3%A1lise-rfv-associada-ao-information-value-cliente-campe%C3%A3o-e5104c18c144)
 
 - **Projeto - Pesquisa de mercado Edtech**
+  - Skills: Negócios, Excel & Estatística
   - Notebook: [Link](https://github.com/iuryleal/PesquisaMercadoEdtech)
   - Link Artigo: [Link](https://medium.com/@iuryleal/pesquisa-de-mercado-edtech-94d34e2260d0)
     
 - **Projeto - Rede de Clínicas Odontológicas**
+  - Skills: Negócios & Power Bi
   - Link Power BI: [Link](https://app.powerbi.com/view?r=eyJrIjoiZDJiNDk3MTMtMzZjNy00OTliLTlhYzMtNWFkNThjNGEyZTJmIiwidCI6ImQyOGI5MzEwLWE5NzQtNGRjOC1iMDg4LTZmMTdhNTJjNjc2MiJ9)
   
 - **Projeto - Data Cleaning with SQL**
+  - Skills: SQL
   - Notebook: [Link](https://github.com/iuryleal/Data-Cleaning-with-SQL)
 
 ## **Skills**
