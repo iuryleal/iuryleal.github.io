@@ -11,6 +11,10 @@
   - Link Power BI: [Link](https://app.powerbi.com/view?r=eyJrIjoiZTlhNWFiNGYtMzlkNi00NjJjLThlYTEtMzk2OTAzMzc3OTUyIiwidCI6ImQyOGI5MzEwLWE5NzQtNGRjOC1iMDg4LTZmMTdhNTJjNjc2MiJ9)
   - Link Artigo: [Link](https://medium.com/@iuryleal/an%C3%A1lise-rfv-associada-ao-information-value-cliente-campe%C3%A3o-e5104c18c144)
  
+- **Projeto - Pesquisa de mercado - Edtech**
+  - Skills: Negócios, Estatística & Excel
+  - Notebook:  [Link](https://github.com/iuryleal/PesquisaMercadoEdtech)
+
 - **Projeto - Rede de Clínicas Odontológicas**
   - Skills: Negócios & Power Bi
   - Link Power BI: [Link](https://app.powerbi.com/view?r=eyJrIjoiZDJiNDk3MTMtMzZjNy00OTliLTlhYzMtNWFkNThjNGEyZTJmIiwidCI6ImQyOGI5MzEwLWE5NzQtNGRjOC1iMDg4LTZmMTdhNTJjNjc2MiJ9)
