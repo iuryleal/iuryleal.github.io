@@ -40,8 +40,7 @@
   - 🛠️ Figma, Canva
 
 ## **Experiência**
-- **CONSELHEIRO | 2022 - dias atuais**
-- SOLE7 - CONFEITARIA ARTESANAL
+- **CONSELHEIRO, 2022 - dias atuais (SOLE7 - CONFEITARIA ARTESANAL)**
   - Resultados:
     - 20x de ROIC através de estruturação e implementação de nova linha de serviço e canal de vendas.
 - **IDEALIZADOR | 2023 - 2023**
