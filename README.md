@@ -40,21 +40,20 @@
   - 🛠️ Figma, Canva
 
 ## **Experiência**
-- **CONSELHEIRO, 2022 - dias atuais (SOLE7 - CONFEITARIA ARTESANAL)**
+- **CONSELHEIRO ; SOLE7 - CONFEITARIA ARTESANAL ; 2022 - dias atuais**
   - Resultados:
     - 20x de ROIC através de estruturação e implementação de nova linha de serviço e canal de vendas.
-- **IDEALIZADOR | 2023 - 2023**
-- LYNKA
+- **IDEALIZADOR ; LYNKA ; 2023 - 2023**
   - Resultados:
     - Idealizador de startup selecionada em dois programas de pré-aceleração e incubação: 
         - HUBPB (sendo acelerado por SEBRAE, SENAI, IEL e NeoVentures) 
         - Acelera-í (sendo acelerado por Wadhwani Foundation).
-- **Fundador | 2022 - 2023 (Consultório No Verde - Curso de gestão, finanças, marketing e vendas para Dentistas)**
+- **Fundador ; Consultório No Verde - Curso de gestão, finanças, marketing e vendas para Dentistas ; 2022 - 2023**
   - Resultados:
     - R$4.5mil em vendas
     - Embaixador IOA Campina Grande (instituição de pós-graduação em odontologia)
     - Parceria IZI SOFT (software de gestão odontológica)
-- **Analista de projetos & PALESTRANTE | 2022 - 2022 (Destrave - Curso de Marketing para Dentistas)**
+- **Analista de projetos & PALESTRANTE ; Destrave - Curso de Marketing para Dentistas ; 2022 - 2022**
   - Resultados:
     - Entrega de demandas dentro do prazo estipulado, com qualidade esperada
     - Aproximadamente R$10mil em vendas;
