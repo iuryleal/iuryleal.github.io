@@ -40,10 +40,10 @@
   - 🛠️ Figma, Canva
 
 ## **Experiência**
-- **CONSELHEIRO ; SOLE7 - CONFEITARIA ARTESANAL ; 2022 - dias atuais**
+- **Conselheiro ; Sole7 - Confeitaria Artesanal ; 2022 - dias atuais**
   - Resultados:
     - 20x de ROIC através de estruturação e implementação de nova linha de serviço e canal de vendas.
-- **IDEALIZADOR ; LYNKA ; 2023 - 2023**
+- **Idealizador ; Lynka ; 2023 - 2023**
   - Resultados:
     - Idealizador de startup selecionada em dois programas de pré-aceleração e incubação: 
         - HUBPB (sendo acelerado por SEBRAE, SENAI, IEL e NeoVentures) 
@@ -53,23 +53,23 @@
     - R$4.5mil em vendas
     - Embaixador IOA Campina Grande (instituição de pós-graduação em odontologia)
     - Parceria IZI SOFT (software de gestão odontológica)
-- **Analista de projetos & PALESTRANTE ; Destrave - Curso de Marketing para Dentistas ; 2022 - 2022**
+- **Analista de projetos & Palestrante ; Destrave - Curso de Marketing para Dentistas ; 2022 - 2022**
   - Resultados:
     - Entrega de demandas dentro do prazo estipulado, com qualidade esperada
     - Aproximadamente R$10mil em vendas;
     - Expansão de reconhecimento de marca através de insight que gerou entrevista na TV local e +4.4mil views no instagram
-- **Analista financeiro | 2021 - 2022 (Move Mente - Clínica de saúde para jovens com atraso em desenvolvimento)**
+- **Analista financeiro ; Move Mente - Clínica de saúde para jovens com atraso em desenvolvimento ; 2021 - 2022**
   - Resultados:
     - Diminuição da necessidade de capital de giro através da redução do número de clientes inadimplentes;
     - Economia de tempo para envio de boletos para clientes - via email e WhatsApp - através de automação realizada via Google Sheets
     - Maior previsibilidade para identificar períodos de descasamento de caixa e agilidade para tomada de decisão
-- **Proprietário & Gestor  | 2020-2021 (Nanu - Revenda de produtos alimentícios naturais)**
+- **Proprietário & Gestor ; Nanu - Revenda de produtos alimentícios naturais ; 2020-2021**
   - Resultados:
     - Mais de R$65mil em vendas; 
     - Mais de 200 clientes;
     - Fluxo de caixa positivo desde o primeiro dia;
     - Tempo médio de resposta ao cliente inferior a 5min
-- **Analista de projetos & HEAD de Marketing | 2020  (EOSEINO - 1º Encontro Online sobre Estratégias Inovadoras na Odontologia)**
+- **Analista de projetos & Head de Marketing ; EOSEINO - 1º Encontro Online sobre Estratégias Inovadoras na Odontologia ; 2020 - 2020**
   - Resultados:
     - Entrega de demandas dentro do prazo estipulado, com qualidade esperada
     - +2000 inscritos de forma orgânica (evento gratuito)
