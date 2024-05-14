@@ -40,10 +40,12 @@
   - 🛠️ Figma, Canva
 
 ## **Experiência**
-- **CONSELHEIRO | 2022 - dias atuais (SOLE7 - CONFEITARIA ARTESANAL)**
+- **CONSELHEIRO | 2022 - dias atuais**
+- SOLE7 - CONFEITARIA ARTESANAL
   - Resultados:
     - 20x de ROIC através de estruturação e implementação de nova linha de serviço e canal de vendas.
-- **IDEALIZADOR | 2023 - 2023 (LYNKA)**
+- **IDEALIZADOR | 2023 - 2023**
+- LYNKA
   - Resultados:
     - Idealizador de startup selecionada em dois programas de pré-aceleração e incubação: 
         - HUBPB (sendo acelerado por SEBRAE, SENAI, IEL e NeoVentures) 
