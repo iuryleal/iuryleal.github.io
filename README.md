@@ -16,6 +16,11 @@
   - Notebook:  [Link](https://github.com/iuryleal/PesquisaMercadoEdtech)
   - Artigo: [Link](https://medium.com/@iuryleal/pesquisa-de-mercado-edtech-de1c28eb72b5)
 
+- **Projeto - Lead Scoring**
+  - Skills: Negócios, Estatística, Python & Machine Learning
+  - Notebook: [Link](https://github.com/iuryleal/LeadScoring)
+  - Artigo: [Link](https://medium.com/@iuryleal/lead-scoring-como-solu%C3%A7%C3%A3o-para-maximiza%C3%A7%C3%A3o-de-resultados-d573c6ccad35)
+
 - **Projeto - Rede de Clínicas Odontológicas**
   - Skills: Negócios & Power Bi
   - Link Power BI: [Link](https://app.powerbi.com/view?r=eyJrIjoiZDJiNDk3MTMtMzZjNy00OTliLTlhYzMtNWFkNThjNGEyZTJmIiwidCI6ImQyOGI5MzEwLWE5NzQtNGRjOC1iMDg4LTZmMTdhNTJjNjc2MiJ9)
