@@ -21,7 +21,7 @@
   - Notebook: [Link](https://github.com/iuryleal/LeadScoring)
   - Artigo: [Link](https://medium.com/@iuryleal/lead-scoring-como-solu%C3%A7%C3%A3o-para-maximiza%C3%A7%C3%A3o-de-resultados-d573c6ccad35)
 
-- **Projeto - Rede de Clínicas Odontológicas**
+- **Projeto - Dashboard Comercial para Rede de Clínicas Odontológicas**
   - Skills: Negócios & Power Bi
   - Link Power BI: [Link](https://app.powerbi.com/view?r=eyJrIjoiZDJiNDk3MTMtMzZjNy00OTliLTlhYzMtNWFkNThjNGEyZTJmIiwidCI6ImQyOGI5MzEwLWE5NzQtNGRjOC1iMDg4LTZmMTdhNTJjNjc2MiJ9)
   
