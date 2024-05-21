@@ -34,7 +34,7 @@
   - 💻 DAX
   - 💻 SQL
   - 💻 Git
-  - 💻 Python (Pandas, Numpy, Matplotlib, Seaborn)
+  - 💻 Python (Pandas, Numpy, Matplotlib, Seaborn, Scipy, Statsmodels, Scikit-Learn)
 
 - **Ferramentas:**
   - 🛠️ Excel
