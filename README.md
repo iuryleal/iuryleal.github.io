@@ -1,5 +1,11 @@
 ## **Projetos**
 
+- **Análise - Alavanca de Crescimento da Xperiun Data Analytics**
+  - Link: [Link](https://www.linkedin.com/feed/update/urn:li:activity:7204079716402683904/)
+ 
+- **Análise - Estratégia d'O Novo Mercado**
+  - Link: [Link](https://www.linkedin.com/posts/iury-leal_a-cria%C3%A7%C3%A3o-h%C3%A1-alguns-meses-do-aplicativo-activity-7187941241907527680-APo3?utm_source=share&utm_medium=member_desktop)
+  
 - **Projeto - Redução de Turnover de Funcionários**
   - Skills: Negócios, Python & Estatística
   - Notebook: [Link](https://github.com/iuryleal/Reducao-de-Turnover)
