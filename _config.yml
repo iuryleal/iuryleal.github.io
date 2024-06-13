@@ -2,4 +2,4 @@ title: Iury Leal
 logo: /assets/foto_iury.png
 #description: text below image
 show_downloads: false
-theme: just-the-docs
+theme: jekyll-theme-minimal
