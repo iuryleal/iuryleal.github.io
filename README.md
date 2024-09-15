@@ -1,11 +1,11 @@
-## **Projetos**
-
+## **Análises de Estratégias Empresariais**
 - **Análise - Alavanca de Crescimento da Xperiun Data Analytics**
   - Link: [Link](https://www.linkedin.com/feed/update/urn:li:activity:7204079716402683904/)
  
 - **Análise - Estratégia d'O Novo Mercado**
   - Link: [Link](https://www.linkedin.com/posts/iury-leal_a-cria%C3%A7%C3%A3o-h%C3%A1-alguns-meses-do-aplicativo-activity-7187941241907527680-APo3?utm_source=share&utm_medium=member_desktop)
-  
+    
+## **Projetos de Análise de Dados**
 - **Projeto - Redução de Turnover de Funcionários**
   - Skills: Negócios, Python & Estatística
   - Notebook: [Link](https://github.com/iuryleal/Reducao-de-Turnover)
@@ -35,92 +35,46 @@
   - Skills: SQL
   - Notebook: [Link](https://github.com/iuryleal/Data-Cleaning-with-SQL)
 
-## **Skills**
-- **Linguagens:**
-  - 💻 DAX
-  - 💻 SQL
-  - 💻 Git
-  - 💻 Python (Pandas, Numpy, Matplotlib, Seaborn, Scipy, Statsmodels, Scikit-Learn)
+## **Habilidades**
+🏆 **Gestão e Operações**:
+- OKRs
+- SWOT
+- 5S
+- Ishikawa
+- 5 porquês 
+- GUT, BIOS, ICE
+- PDCA
+- 5W2H
+- GANTT
+- CRISP-DM
+- Análise de Indicadores de Desempenho (KPIs)
 
-- **Ferramentas:**
-  - 🛠️ Excel
-  - 🛠️ Pentaho 
-  - 🛠️ SQL Server, MySQL
-  - 🛠️ Power BI
-  - 🛠️ GitHub
-  - 🛠️ Figma, Canva
+🏆 **Marketing e Vendas**:
+- Desenvolvimento de Personas e Segmentação
+- Planejamento Estratégico de Marketing
+- Copywriting Estratégico (textos persuasivos para conteúdos orgânicos, anúncios e landing pages, com foco em gerar leads qualificados e conversão de vendas)
+- Gestão do Funil de Marketing e Vendas (desenvolvimento e otimização de estratégias de atração, nutrição e conversão ao longo de todas as etapas do funil)
+- Vendas Consultivas (SPIN Selling)
+- Análise de Indicadores de Desempenho (KPIs)
 
-## **Experiência**
-- **Conselheiro ; Sole7 - Confeitaria Artesanal ; 2022 - dias atuais**
-  - Resultados:
-    - 20x de ROIC através de estruturação e implementação de nova linha de serviço e canal de vendas.
-- **Idealizador ; Lynka ; 2023 - 2023**
-  - Resultados:
-    - Idealizador de startup selecionada em dois programas de pré-aceleração e incubação: 
-        - HUBPB (sendo acelerado por SEBRAE, SENAI, IEL e NeoVentures) 
-        - Acelera-í (sendo acelerado por Wadhwani Foundation).
-- **Fundador ; Consultório No Verde - Curso de gestão, finanças, marketing e vendas para Dentistas ; 2022 - 2023**
-  - Resultados:
-    - R$4.5mil em vendas
-    - Embaixador IOA Campina Grande (instituição de pós-graduação em odontologia)
-    - Parceria IZI SOFT (software de gestão odontológica)
-- **Analista de projetos & Palestrante ; Destrave - Curso de Marketing para Dentistas ; 2022 - 2022**
-  - Resultados:
-    - Entrega de demandas dentro do prazo estipulado, com qualidade esperada
-    - Aproximadamente R$10mil em vendas;
-    - Expansão de reconhecimento de marca através de insight que gerou entrevista na TV local e +4.4mil views no instagram
-- **Analista financeiro ; Move Mente - Clínica de saúde para jovens com atraso em desenvolvimento ; 2021 - 2022**
-  - Resultados:
-    - Diminuição da necessidade de capital de giro através da redução do número de clientes inadimplentes;
-    - Economia de tempo para envio de boletos para clientes - via email e WhatsApp - através de automação realizada via Google Sheets
-    - Maior previsibilidade para identificar períodos de descasamento de caixa e agilidade para tomada de decisão
-- **Proprietário & Gestor ; Nanu - Revenda de produtos alimentícios naturais ; 2020-2021**
-  - Resultados:
-    - Mais de R$65mil em vendas; 
-    - Mais de 200 clientes;
-    - Fluxo de caixa positivo desde o primeiro dia;
-    - Tempo médio de resposta ao cliente inferior a 5min
-- **Analista de projetos & Head de Marketing ; EOSEINO - 1º Encontro Online sobre Estratégias Inovadoras na Odontologia ; 2020 - 2020**
-  - Resultados:
-    - Entrega de demandas dentro do prazo estipulado, com qualidade esperada
-    - +2000 inscritos de forma orgânica (evento gratuito)
-    
-## **Formação Acadêmica**
-- **Bacharelado em Odontologia**
-  - Universidade Estadual da Paraíba (2019.2 - 2024.1)
-- **Bacharelado em Ciências Contábeis (incompleto)**
-  - Universidade Estadual da Paraíba (2014.1 - 2017.2)
+🏆 **Finanças**:
+- Tesouraria
+- Controladoria
+- Análise de Indicadores de Desempenho (KPIs)
 
-## **Cursos**
-- **Formação Gerando Valor com Dados** 
-  -  Preditiva Analytics (2024)
-- **Advanced DAX For Microsoft Power BI**
-  - Maven Analytics (2024)
-- **Pandas Bootcamp: Advanced Python Data Analysis**
-  - Andy Bek (2024)
-- **Pentaho**
-  - Arruda Consulting (2024)
-- **Formação em Análise de Dados**
-  - Xperiun (2023-2024)
-- **Formação em Controladoria**
-  - WJR Consulting (2023)
-- **Spin Selling & Negotiation Techniques**
-  - Escola DNC (2023)
-- **Método MRPP Gestão Organizada**
-  - Yasmin Schroeder (2023)
-- **Fundamentos em Finanças**
-  - G4 Educação (2022)
-- **Workshop: Funil de Vendas**
-  - 8Ps - Escola de Negócios (2022)
-- **Finance and Accounting**
-  - Escola DNC (2021)
-- **Excel Avançado**
-  - Fundação Bradesco (2021)
-- **Kaizen**
-  - Excelência Operacional (2021)
-- **Green Belt Lean Six Sigma**
-  - Excelência Operacional (2021)
-- **Copy Canvas**
-  - Empiricus (2020)
-- **Oratória**
-  - Sebrae (2020)
+🏆 **Análise de dados e tecnologia**:
+- Análises univariadas (distribuição de classes, medidas de posição e dispersão) e bivariadas (Pearson, Information Value e RQuadrado)
+- Probabilidade (Poisson, Binomial, Normal)
+- Inferência estatística 
+- Testes de hipótese 
+
+💻 **Linguagens de programação**:
+- DAX
+- SQL
+- Python (Pandas, Numpy, Matplotlib, Seaborn, Scipy, Statsmodels & Scikit-Learn)
+
+🔧 **Ferramentas**:
+- Excel
+- SQL Server
+- Power BI
+- Figma, Canva
