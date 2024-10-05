@@ -11,18 +11,18 @@
   - Notebook: [Link](https://github.com/iuryleal/Reducao-de-Turnover)
   - Artigo: [Link](https://medium.com/@iuryleal/redu%C3%A7%C3%A3o-de-turnover-0dd0f4f31f95)
 
-- **Projeto - Análise RFV associada ao Information Value (Cliente Campeão)**
+- **Projeto - Análise RFV associada ao Information Value (Cliente Campeão) como meio de potencializar os resultados de estratégias de marketing e vendas.**
   - Skills: Negócios, Python, Power Bi, SQL & Estatística
   - Notebook: [Link](https://github.com/iuryleal/RFV-Information-Value)
   - Link Power BI: [Link](https://app.powerbi.com/view?r=eyJrIjoiZTlhNWFiNGYtMzlkNi00NjJjLThlYTEtMzk2OTAzMzc3OTUyIiwidCI6ImQyOGI5MzEwLWE5NzQtNGRjOC1iMDg4LTZmMTdhNTJjNjc2MiJ9)
   - Artigo: [Link](https://medium.com/@iuryleal/an%C3%A1lise-rfv-associada-ao-information-value-cliente-campe%C3%A3o-e5104c18c144)
  
-- **Projeto - Pesquisa de mercado - Edtech**
+- **Projeto - Análise da viabilidade de lançamento de novo produto - Edtech**
   - Skills: Negócios, Estatística & Excel
   - Notebook:  [Link](https://github.com/iuryleal/PesquisaMercadoEdtech)
   - Artigo: [Link](https://medium.com/@iuryleal/pesquisa-de-mercado-edtech-de1c28eb72b5)
 
-- **Projeto - Lead Scoring**
+- **Projeto - Lead Scoring como solução para maximização de resultados.**
   - Skills: Negócios, Estatística, Python & Machine Learning
   - Notebook: [Link](https://github.com/iuryleal/LeadScoring)
   - Artigo: [Link](https://medium.com/@iuryleal/lead-scoring-como-solu%C3%A7%C3%A3o-para-maximiza%C3%A7%C3%A3o-de-resultados-d573c6ccad35)
