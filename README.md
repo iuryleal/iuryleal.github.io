@@ -74,7 +74,8 @@
 - Python (Pandas, Numpy, Matplotlib, Seaborn, Scipy, Statsmodels & Scikit-Learn)
 
 🔧 **Ferramentas**:
-- Excel
-- SQL Server
-- Power BI
+- Excel, Google Sheets
+- SQL Server, Databricks
+- Power BI, Looker PRO
+- Notion
 - Figma, Canva
